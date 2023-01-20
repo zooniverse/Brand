@@ -5,7 +5,7 @@ This repo holds the Zooniverse visual assets (e.g. logos and Twitter/Facebook av
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />These Zooniverse visual assets are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-<img width="779" alt="creativeCommons-restrictions" src="https://user-images.githubusercontent.com/4975655/213787366-01d7000c-503b-4db8-9bf4-a5d2d33d892a.png">
+<img width="500" alt="creativeCommons-restrictions" src="https://user-images.githubusercontent.com/4975655/213787366-01d7000c-503b-4db8-9bf4-a5d2d33d892a.png">
 
 ### Design System
 The Zooniverse Design System contains the most up-to-date building blocks for the Zooniverse interface, including type styles, colours, buttons, etc. It was built with InVision and can be found here: https://projects.invisionapp.com/dsm/zooniverse/zooniverse
