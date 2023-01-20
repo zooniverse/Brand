@@ -5,7 +5,7 @@ This repo holds the Zooniverse visual assets (e.g. logos and Twitter/Facebook av
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />These Zooniverse visual assets are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-<img src="https://drive.google.com/file/d/1qmP0GOkNs99GxiVUeEPWzI6QZ5f2eW82/view?usp=sharing" />
+<img src="https://drive.google.com/file/d/1qmP0GOkNs99GxiVUeEPWzI6QZ5f2eW82/view?usp=sharing" alt = "test" style = "float: left; margin-right: 10px;"/>
 
 
 ### Design System
