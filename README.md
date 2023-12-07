@@ -8,7 +8,7 @@ This repo holds the Zooniverse visual assets (e.g. logos and Twitter/Facebook av
 <img width="500" alt="creativeCommons-restrictions" src="https://user-images.githubusercontent.com/4975655/213787366-01d7000c-503b-4db8-9bf4-a5d2d33d892a.png">
 
 ### Design System
-The Zooniverse Design System contains the most up-to-date building blocks for the Zooniverse interface, including type styles, colours, buttons, etc. It was built with InVision and can be found here: https://projects.invisionapp.com/dsm/zooniverse/zooniverse
+The Zooniverse Design System contains the most up-to-date building blocks for the Zooniverse interface, including typography styles, colors, buttons, etc. It was built in Figma and can be found here: [Zooniverse Design System](https://www.figma.com/file/HUWCyrjkwgPsGKLXhLGb21/Design-System?type=design&mode=design&t=sYZbCXSIs9hy0mv7-1)
 
 ### Questions or requests?
 
